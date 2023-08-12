@@ -1,5 +1,5 @@
 # Important
-All testing is done on 1920x1080 screen, effects on different ratios are unknown
+All testing is done on a 1920x1080 screen, effects on different ratios are unknown
 
 ## Setup:
 Open the "config.json" file in notepad and change the names in parenthesis to match your PiShock login details, for example
@@ -16,10 +16,14 @@ Your API key can be found by logging into the PiShock website, going to Menu > A
 
 Your API code can be generated in your PiShock controls, copy and paste this into the quotation marks
 
-Place the image that the program will be looking for in the Images folder, do not rename or move this folder or the program may break.
+Simply trigger an event in a game, such as taking damage.
+Find the most obvious visual indicator for that event, such as missing hearts or a certain number.
+Screenshot it, and save it as a png, jpg, or jpeg.
+Place the image the program will be looking for in the Images folder, do not rename or move this folder or the program may break.
 Images within this folder can be named whatever as long as they are in jpeg, jpg, or png format.
 
-All set! 
+### All set!
+Run the .exe, and enjoy your game!
 
 ## Customisation:
 
