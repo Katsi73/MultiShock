@@ -2,7 +2,7 @@
 All testing is done on 1920x1080 screen, effects on different ratios are unknown
 
 ## Setup:
-Open the "config.json" file as and change the names in parenthesis to match your PiShock login details, for example
+Open the "config.json" file in notepad and change the names in parenthesis to match your PiShock login details, for example
 
 {
   "api_username": "BillJones1",
