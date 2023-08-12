@@ -5,11 +5,17 @@ All testing is done on a 1920x1080 screen, effects on different ratios are unkno
 Open the "config.json" file in notepad and change the names in parenthesis to match your PiShock login details, for example
 
 {
+
   "api_username": "BillJones1",
+  
   "api_apikey": "ffAjXWu7-3985-0563-F8hP-T2Nz6BUUJagY",
+  
   "api_code": "GpE1dNBwH8U",
+  
   "api_throttle_limit": 10,
+  
   "api_name": "MultiShock"
+  
 }
 
 Your API key can be found by logging into the PiShock website, going to Menu > Account > Generate API Key
