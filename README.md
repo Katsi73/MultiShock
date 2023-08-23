@@ -1,5 +1,6 @@
 # Important
 This should work on Python version 3.11.4, if the program is struggling to run make sure you update here https://www.python.org/downloads/release/python-3114/
+
 All testing is done on a 1920x1080 screen, effects on different ratios are unknown
 
 ## Setup:
